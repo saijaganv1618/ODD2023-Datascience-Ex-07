@@ -18,8 +18,8 @@ Save the data to the file
 
 # CODE AND OUPUT:
 ```
-NAME : R . JOYCE BEULAH
-REG NO : 212222230058
+NAME : Jagan a
+REG NO : 212221230037
 ```
 
 
